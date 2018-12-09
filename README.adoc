@@ -1,0 +1,9 @@
+= Identicon
+
+This is a course project from Stephen Grider's _The Complete Elixir And Phoenix Bootcamp_.
+
+In this project we define a function to create Identicons, which are the avatars github creates for users who do not upload their own. The identicon function always creates the same image given the same username, which it achieves by rendering the image based on the bits of the MD5 hash of the username. This is "Tomboyo":
+
+image::https://raw.githubusercontent.com/Tomboyo/identicon/master/images/Tomboyo.png[Tomboyo!]
+
+Oddly proud of that, actually.
