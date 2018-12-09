@@ -22,3 +22,5 @@ erl_crash.dump
 # Ignore package tarball (built via "mix hex.build").
 identicon-*.tar
 
+# ElixirLS VSCode plugin files
+/.elixir_ls/
